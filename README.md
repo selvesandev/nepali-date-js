@@ -1,6 +1,6 @@
 # nepali-date-js
 
-A Nepali Date library for nepali date parsing and formatting.
+A corrected Nepali Date library for nepali date parsing and formatting (forked from `nepali-date`). Includes all the features available at `nepali-date`
 
 The lunar calendar based on Bikram Samvat seems to have varied
 from it's original specification. As the number of days on each
